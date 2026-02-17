@@ -8,11 +8,7 @@ from pathlib import Path
 import sqlite3
 from typing import Union
 
-from __future__ import annotations
 
-import sqlite3
-from pathlib import Path
-from typing import Union
 
 
 def connect_sqlite(db_path: Union[str, Path]) -> sqlite3.Connection:
