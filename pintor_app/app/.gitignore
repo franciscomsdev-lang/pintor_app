@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.venv/
+venv/
+env/
+
+# Flet / build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

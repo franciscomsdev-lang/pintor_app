@@ -1,0 +1,9 @@
+# requirements.txt (mínimo e profissional)
+
+flet>=0.23.0
+python-dateutil>=2.9.0
+
+# Qualidade e testes
+pytest>=8.0.0
+pytest-cov>=5.0.0
+ruff>=0.6.0
